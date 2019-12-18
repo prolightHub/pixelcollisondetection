@@ -9,7 +9,7 @@
 		this.cache = window.cache = {};
 		this.cache.loadedImages = window.cache.loadedImages = {};
 		this.cache.imageNames = window.cache.imageNames = [
-			"avatars/aqualine-sapling"
+			"avatars/*"
 		];
 
 		this.links = window.links = {
